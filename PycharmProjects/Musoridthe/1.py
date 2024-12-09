@@ -31,4 +31,5 @@ async def m():
     await asyncio.gather(f1(), f2())
     print("all tasks are finished")
 asyncio.run(m())
-print("new fearute")
+
+
