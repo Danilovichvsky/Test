@@ -32,3 +32,4 @@ async def m():
     print("all tasks are finished")
 asyncio.run(m())
 print("new fearute")
+print(edfefefe)
