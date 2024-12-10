@@ -32,7 +32,7 @@ async def m():
     print("all tasks are finished")
 asyncio.run(m())
 
-print("new fearute227")
+print("new fearute228")
 
 print("some from new")
 #new line from distance
